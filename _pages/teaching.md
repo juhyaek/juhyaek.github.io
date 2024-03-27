@@ -5,17 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{::comment}
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-::comment/
-
-
-### H3 header
-Courses at Cornell University
+## Courses at Cornell University
 
 **Spring 2024** Teaching Assistant, MUSIC1212/COGST1212 - Music on the Brain
 Instructors: Dr. Ronald R. Hoy & Annie Lewandowski
@@ -26,8 +16,7 @@ Instructor: Dr. Sarah Murray
 **Fall 2022** Instructor, LING1100 - Language, Thought, and Reality: Debunking Language Myths
 
 
-### H3 header
-Courses at Swarthmore Colleg
+## Courses at Swarthmore College
 
 **2017-2019** Course Assistant, LING050 - Syntax I
 Instructors: Dr. Donna Jo Napoli, Dr. Peter Klecha
